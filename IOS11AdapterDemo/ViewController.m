@@ -106,4 +106,7 @@
 - (void)eat {
     
 }
+- (void)sssss {
+    
+}
 @end
