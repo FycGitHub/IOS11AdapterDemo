@@ -109,4 +109,7 @@
 - (void)he {
     
 }
+- (void)wan {
+    
+}
 @end
