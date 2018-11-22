@@ -106,10 +106,4 @@
 - (void)eat {
     
 }
-- (void)he {
-    
-}
-- (void)wan {
-    
-}
 @end
